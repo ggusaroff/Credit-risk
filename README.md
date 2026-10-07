@@ -1,5 +1,3 @@
-# Credit-risk
-
 # Credit Risk Prediction
 
 ## О проекте
